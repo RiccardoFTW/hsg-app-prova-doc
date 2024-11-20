@@ -1,4 +1,7 @@
-site_name: Progress Documentation
+site_name: hsg-app-prova-doc
+repo_url: https://github.com/RiccardoFTW/hsg-app-prova-doc
+repo_name: hsg-app-prova-doc
+
 theme:
   name: material
   language: it
